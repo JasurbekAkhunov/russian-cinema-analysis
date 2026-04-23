@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="drimble_logo.png" alt="DRIMBLE" height="80"/>
+</p>
+
 # Анализ российского кинопроката
 
 ## Постановка задачи
